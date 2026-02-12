@@ -44,4 +44,5 @@
 
 ## 📌 ER-диаграмма базы данных
 
-![[Pasted image 20260212235012.png]]
+<img width="2880" height="1324" alt="image" src="https://github.com/user-attachments/assets/6bd11fc5-1550-4b43-a829-d80cdfe7fb04" />
+
