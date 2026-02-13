@@ -89,7 +89,7 @@
 
 ---
 
-## Скриншоты дашборда
+## Скриншот дашборда
 
 <img width="1872" height="914" alt="image" src="https://github.com/user-attachments/assets/3ead55a1-61fd-4c7d-ab85-9cb7d22b8f4c" />
 
